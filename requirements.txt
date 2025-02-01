@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tensorflow
+pymongo
+scikit-learn
+python_deriv_api
+websocket-client
+mongoengine
+dash
+plotly
